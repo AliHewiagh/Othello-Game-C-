@@ -2,12 +2,7 @@
 Program: Othello_Game.cpp
 Course: Programming fundamental (TC03)(TT06).
 Year:2015/26 Trimester 1
-First Student:/
-Name: SHUBAR_ABDUELHAKEM_G_ABDUSALAM.
-ID: 1141327949
-Email: hakeem95shubr@gmail.com
-Phone: 0060126227977
-Second Student:/
+Student:/
 Name: ALI OMRAN ALI HEWAIGH.
 ID: 1141327922.
 Email: alihewaigh@gmail.com
